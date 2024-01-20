@@ -59,6 +59,7 @@ La Forma Normal de Greibach facilita el análisis sintáctico y la implementaci�
 - Entrada de usuario:
 
   ![](./assets/ejemplo-uso_entrada-de-usuario.png)
+
   En este caso **ε** es la cadena vacía
 
 - Gramatica resultante:
